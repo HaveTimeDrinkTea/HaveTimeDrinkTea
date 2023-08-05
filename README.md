@@ -12,67 +12,100 @@
     <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Site Badge"/>
   </a>
 </div>
+<br>
 
 ---
 
-
+<br>
 ### &#128104;&#127995;&#8205;&#128187; About Me :
+<br>
+<br>  
 
-- 👨🏻 I am better known as Pei ( like the "pei" in Taipei)
+* 👨🏻 I am better known as Pei ( like the "pei" in Taipei city 🇹🇼)
 
-- 😄 Pronouns: he / him
+* 😄 Pronouns: he / him
 
-- :telescope: I own an online tea retail micro-business and I teach tea appreciation classes online. I am also retraining to be an App Creater and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
+* :telescope: I run a micro-business for online tea retail  and I teach also tea appreciation classes online at [teanamu.com](https://www.teanamu.com/product/teas-in-the-clouds-brew-along-tea-masterclass/). I am also retraining to be an App Creater and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
 
+* :seedling: Currently learning ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-red?style=flat&logo=swift&logoColor=white) on ![Udemy Badge](https://img.shields.io/badge/Udemy-purple?style=flat&logo=udemy&logoColor=white) and "Writing Video Game Characters" on ![edx Badge](https://img.shields.io/badge/edx-black?style=flat&logo=edx&logoColor=white).
 
-- :seedling: Currently learning ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-red?style=flat&logo=swift&logoColor=white) on ![Udemy Badge](https://img.shields.io/badge/Udemy-purple?style=flat&logo=udemy&logoColor=white) and "Writing Video Game Characters" on  ![edx Badge](https://img.shields.io/badge/edx-black?style=flat&logo=edx&logoColor=white)
+*  🔭 I’m currently working on redesigning my online retail site built using ![Woocommerce Badge](https://img.shields.io/badge/Woocommerce-purple?style=flat&logo=woocommerce&logoColor=white) on ![Wordpress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
 
--  🔭 I’m currently working on redesigning my online retail site built using ![Woocommerce Badge](https://img.shields.io/badge/Woocommerce-purple?style=flat&logo=woocommerce&logoColor=white) on ![Wordpress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
-
--  👯 I’m looking to collaborate on a :jp: Japanese Learning App utilizing a Spaced Repetition System (SRS) and an Apple Watch App for Crochet lovers.
+*  👯 I’m looking to collaborate on a :jp: Japanese Learning App utilizing a Spaced Repetition System (SRS) and an Apple Watch App for Crochet lovers.
  
--  🤔 I’m looking for help with getting experience in a medium to large scale web or app development project.
+*  🤔 I’m looking for help with getting experience in a medium to large scale web or app development project.
 
   
--  💬 Ask me about tea 🍵, Singaporean/Chinese/Japanese/Korean dishes 👨‍🍳.
+*  💬 Ask me about tea 🍵, Singaporean/Chinese/Japanese/Korean dishes 👨‍🍳.
 
-- :zap: In my free time, I like to readup on  tech, finance, politics and also dabble in bonsai 🪴, pottery 🫖 and crochet 🧶 animal toys for charity, friends and family.
+* :zap: In my free time, I like to readup on  tech, finance, politics and also dabble in bonsai 🪴, pottery 🫖 and crochet 🧶 animal toys for charity, friends and family.
 
--  ⚡ Fun fact: I am a certified (China) Tea Accessor and Cordon Bleu (London) trained Pâtisserie Chef. I am also a former Oracle DBA and trained in SAS Analytics.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teanamu)
+*  ⚡ Fun fact: I am a certified (China) Tea Accessor and Cordon Bleu (London) trained Pâtisserie Chef. I am also a former Oracle DBA, trained in SAS Analytics and certified Accountant.
 
 
-### :hammer_and_wrench: Languages and Tools: 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-
-
-
-### 🗣️ Languages and Tools
-English and Chinese (Fluently) and Japanese (Beginner)
-
+* :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teanamu)
+<br>
 
 ---
 
-### :fire: My Stats :
+<br>
+### :hammer_and_wrench: Languages and Tools: 
+<br>
+<br>  
 
+* 🦾 Proficient in:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Boottrap" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress **alt="Wordpress" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocommerce alt="Woocommerce" width="40" height="40"/>&nbsp;  
+  <img width="40" height="40" Title="Procreate" alt="Procreate-icon" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png">&nbsp;  
+</div>  
+
+<br>
+<br>  
+
+* 📖 Currently Learning:
+  
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;  
+  <img alt="Affinity Designer V2" Title="Affinity Designer V2 on iPad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Affinity_Designer_V2_icon.svg/512px-Affinity_Designer_V2_icon.svg.png" width="40" height="40">&nbsp;  
+  <img alt="Affinity Publisher V2" Title="Affinity Publisher V2 on iPad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Affinity_Publisher_V2_icon.svg/512px-Affinity_Publisher_V2_icon.svg.png" width="40" height="40">&nbsp;  
+  <img alt="Affinity Photo V2" Title="Affinity Photo V2 on iPad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/512px-Affinity_Photo_V2_icon.svg.png" width="40" height="40">&nbsp;  
+</div>
+<br>
+
+---
+
+<br>
+### 🗣️ Languages
+<br>  
+
+* 🦾 Proficient in English and Chinese  
+
+* 📖 Currently Learning Japanese
+
+<br>
+
+---
+
+<br>
+### :fire: My Stats :
+<br>
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=havetimedrinktea&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=494&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havetimedrinktea)](https://github.com/anuraghazra/github-readme-stats)
