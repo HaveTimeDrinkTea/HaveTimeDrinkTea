@@ -31,9 +31,9 @@
 
 *  🔭 Also in the process of redesigning my online retail site built using ![Woocommerce Badge](https://img.shields.io/badge/Woocommerce-purple?style=flat&logo=woocommerce&logoColor=white) on ![Wordpress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
 
-*  👯 I’m looking to collaborate on a :jp: Japanese Learning App utilizing a Spaced Repetition System (SRS) and an Apple Watch App for Crochet lovers.
+*  👯 I’m looking to collaborate on a :jp: Japanese Learning App utilizing a Spaced Repetition System (SRS) and an Apple Watch App for crochet lovers.
  
-*  🤔 Whilst looking for help with getting experience in a medium to large scale web or app development project.
+*  🤔 Whilst looking for help with getting experience in a medium to large scale web or app development projects.
 
   
 *  💬 Ask me about tea 🍵, Singaporean/Chinese/Japanese/Korean dishes 👨‍🍳.
