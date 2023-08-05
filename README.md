@@ -25,7 +25,7 @@
 
 * 😄 Pronouns: he / him
 
-* :telescope: I run a micro-business for online tea retail  and I teach also tea appreciation classes online at [teanamu.com](https://www.teanamu.com/product/teas-in-the-clouds-brew-along-tea-masterclass/). I am also retraining to be an App Creater and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
+* :telescope: I run a micro-business for online tea retail  and I teach also tea appreciation classes online at [Teanamu Chaya Teahouse](https://www.teanamu.com/product/teas-in-the-clouds-brew-along-tea-masterclass/). I am also retraining to be an App Creater and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
 
 * :seedling: Currently learning ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-red?style=flat&logo=swift&logoColor=white) on ![Udemy Badge](https://img.shields.io/badge/Udemy-purple?style=flat&logo=udemy&logoColor=white) and "Writing Video Game Characters" on ![edx Badge](https://img.shields.io/badge/edx-black?style=flat&logo=edx&logoColor=white).
 
