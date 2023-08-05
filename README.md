@@ -22,10 +22,10 @@
 
 - 😄 Pronouns: he / him
 
-- :telescope: I own a online tea retail micro-business and I teach tea appreciation classes online. I am also retraining to be an App Creater and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
+- :telescope: I own an online tea retail micro-business and I teach tea appreciation classes online. I am also retraining to be an App Creater and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
 
 
-- :seedling: Currently learning SwiftUI on ![Udemy Badge](https://img.shields.io/badge/Udemy-purple?style=flat&logo=udemy&logoColor=white) and "Writing Video Game Characters" on  ![edx Badge](https://img.shields.io/badge/edx-black?style=flat&logo=edx&logoColor=white)
+- :seedling: Currently learning ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-red?style=flat&logo=swift&logoColor=white) on ![Udemy Badge](https://img.shields.io/badge/Udemy-purple?style=flat&logo=udemy&logoColor=white) and "Writing Video Game Characters" on  ![edx Badge](https://img.shields.io/badge/edx-black?style=flat&logo=edx&logoColor=white)
 
 -  🔭 I’m currently working on redesigning my online retail site built using ![Woocommerce Badge](https://img.shields.io/badge/Woocommerce-purple?style=flat&logo=woocommerce&logoColor=white) on ![Wordpress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
 
