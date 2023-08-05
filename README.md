@@ -106,7 +106,8 @@
 ### :fire: My Stats :
 <br>
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=havetimedrinktea&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=494&hide_current_streak=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=havetimedrinktea&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havetimedrinktea)](https://github.com/anuraghazra/github-readme-stats)
 
