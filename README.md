@@ -43,7 +43,7 @@
 *  ⚡ Fun fact: I am a certified (China) Tea Accessor and Cordon Bleu (London) trained Pâtisserie Chef. I am also a former Oracle DBA, trained in SAS Analytics and certified Accountant.
 
 
-* :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teanamu)
+* :mailbox: Pop by for a chat (& lots of 🍵): [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teanamu)
 <br>
 
 ---
