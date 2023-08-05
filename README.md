@@ -12,3 +12,33 @@
     <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Site Badge"/>
   </a>
 </div>
+
+---
+
+
+- 😄 Pronouns: ...
+
+### &#128104;&#127995;&#8205;&#128187; About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom.
+
+
+
+
+
+###  🔭 I’m currently working on ...
+###  🌱 I’m currently learning ...
+###  👯 I’m looking to collaborate on ...
+###  🤔 I’m looking for help with ...
+### 💬 Ask me about ...
+###  📫 How to reach me: ...
+###  ⚡ Fun fact: ...
+
+
+### Skills
+
+### 🗣️ Languages: 
+English and Chinese (Fluently) and Japanese (Beginner)
+
+
+
