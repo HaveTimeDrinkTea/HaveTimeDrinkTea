@@ -94,9 +94,9 @@
 ### 🗣️ Languages
 <br>  
 
-* 🦾 Proficient in English and Chinese  
+* 🦾 Proficient in English 🇬🇧 and Chinese 🇨🇳 华语
 
-* 📖 Currently Learning Japanese
+* 📖 Currently Learning Japanese 🇯🇵 日本語  
 
 <br>
 
