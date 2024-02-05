@@ -27,7 +27,7 @@
 
 * :telescope: I run a micro-business for online tea retail at <a href="https://www.teanamu.com/product/teas-in-the-clouds-brew-along-tea-masterclass/" target="_blank" alt="Teanamu Teas in the Clouds Brew-Along Masterclass" title="Teanamu Teas in the Clouds Brew-Along Masterclass"><img src="https://img.shields.io/badge/teanamu-chaya-teahouse?style=flat&labelColor=b70100&color=A67D3C" alt="Teanamu Teas in the Clouds Brew-Along Masterclass" title="Teanamu Teas in the Clouds Brew-Along Masterclass"/></a> and I teach also a "Brew-Along Tea Masterclass" online. I am also retraining to be an App Creater and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
 
-* :seedling: Currently learning ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-red?style=flat&logo=swift&logoColor=white) on ![Udemy Badge](https://img.shields.io/badge/Udemy-purple?style=flat&logo=udemy&logoColor=white) and "Writing Video Game Characters" on ![edx Badge](https://img.shields.io/badge/edx-138CA5?style=flat&logo=edx&logoColor=white).
+* :seedling: Currently learning SwiftUI on Udemy and edX, Python and iOS App Developer on edX and Coursera and also "Introduction to Game Development" on edx 
 
 *  🔭 Also in the process of redesigning my online retail site built using ![Woocommerce Badge](https://img.shields.io/badge/Woocommerce-purple?style=flat&logo=woocommerce&logoColor=white) on ![Wordpress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
 
