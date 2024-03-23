@@ -77,6 +77,8 @@
 * 📖 Currently Learning:
   
 <div>
+  <img alt="Unreal Engine" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
+  <img alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -85,6 +87,7 @@
   <img alt="Affinity Designer V2" Title="Affinity Designer V2 on iPad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Affinity_Designer_V2_icon.svg/512px-Affinity_Designer_V2_icon.svg.png" width="40" height="40">&nbsp;  
   <img alt="Affinity Publisher V2" Title="Affinity Publisher V2 on iPad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Affinity_Publisher_V2_icon.svg/512px-Affinity_Publisher_V2_icon.svg.png" width="40" height="40">&nbsp;  
   <img alt="Affinity Photo V2" Title="Affinity Photo V2 on iPad" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/512px-Affinity_Photo_V2_icon.svg.png" width="40" height="40">&nbsp;  
+  <img alt="XCode" Title="XCode" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" width="40" height="40">&nbsp;  
 </div>
 <br>
 
