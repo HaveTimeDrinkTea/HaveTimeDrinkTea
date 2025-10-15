@@ -27,13 +27,13 @@
 
 * :telescope: I run a micro-business for online tea retail at <a href="https://www.teanamu.com/product/teas-in-the-clouds-brew-along-tea-masterclass/" target="_blank" alt="Teanamu Teas in the Clouds Brew-Along Masterclass" title="Teanamu Teas in the Clouds Brew-Along Masterclass"><img src="https://img.shields.io/badge/teanamu-chaya-teahouse?style=flat&labelColor=b70100&color=A67D3C" alt="Teanamu Teas in the Clouds Brew-Along Masterclass" title="Teanamu Teas in the Clouds Brew-Along Masterclass"/></a> and I teach also a "Brew-Along Tea Masterclass" online. I am retraining to be a Games Developer, App development and Frontend Web Developer. I am a Singaporean 🇸🇬 based in London, United Kingdom 🇬🇧.
 
-* :seedling: Currently, attending a Games Developer Bootcamp, learning SwiftUI on Udemy and edX, Python and iOS App Developer on edX and Coursera. I am also catching up on C++ on Codecademy. 
+* :seedling: Currently, attending a Data Analytics Bootcamp and getting into Python. I am also learning SwiftUI on Udemy and edX, iOS App Developer on edX and Coursera. I am also catching up on C++ on Codecademy. Meanwhile, I am also dabbling on 3D modelling on Blender.
 
 *  🔭 Also in the process of redesigning my online retail site built using ![Woocommerce Badge](https://img.shields.io/badge/Woocommerce-purple?style=flat&logo=woocommerce&logoColor=white) on ![Wordpress Badge](https://img.shields.io/badge/Wordpress-blue?style=flat&logo=wordpress&logoColor=white)
 
 *  👯 I’m looking to collaborate on cool and fun games, a :jp: Japanese Learning App utilizing a Spaced Repetition System (SRS) and an Apple Watch App for crochet lovers.
  
-*  🤔 Whilst looking for experience in a medium to large scale games / app / web development projects.
+*  🤔 Whilst looking for opportunities in a data analytics role.
 
   
 *  💬 Ask me about tea 🍵, Singaporean/Chinese/Japanese/Korean dishes 👨‍🍳.
@@ -55,6 +55,8 @@
 
 * 🦾 Proficient in:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg"  itle="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
