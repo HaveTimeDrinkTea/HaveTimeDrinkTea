@@ -101,7 +101,7 @@
 
 * 🦾 Proficient in English 🇬🇧 and Chinese 🇨🇳 华语
 
-* 📖 Currently Learning Japanese 🇯🇵 日本語 <img src="https://static.wikia.nocookie.net/duolingo/images/4/4a/Duo_waving.svg/revision/latest?cb=20230113024808" title="Duolingo" Alt="Duolingo" width="40" height="40"> Duolingo score 63
+* 📖 Currently Learning Japanese 🇯🇵 日本語 [<img src="https://static.wikia.nocookie.net/duolingo/images/4/4a/Duo_waving.svg/revision/latest?cb=20230113024808" title="Duolingo" Alt="Duolingo" width="30" height="30"> Duolingo score 63]
 
 <br>
 
