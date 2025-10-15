@@ -70,7 +70,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress **alt="Wordpress" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocommerce alt="Woocommerce" width="40" height="40"/>&nbsp;  
-  <img width="40" height="40" Title="Procreate" alt="Procreate-icon" src="https://en.wikipedia.org/wiki/File:Procreate_icon.png">&nbsp;  
+  <img width="40" height="40" Title="Procreate" alt="Procreate-icon" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png">&nbsp;  
 </div>  
 
 <br>
